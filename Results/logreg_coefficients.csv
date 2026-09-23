@@ -1,0 +1,12 @@
+feature,coefficient
+tenure_months,-0.5129563513568157
+digital_engagement_score,-0.39072629912906
+num_complaints_last_year,0.17123797970468377
+num_products,-0.1561352893161401
+is_active_member,-0.13666103887784478
+credit_score,0.13078959980780003
+age,0.12081032054914292
+balance_zmw,-0.07001007580582447
+estimated_monthly_salary_zmw,-0.04541661008046108
+has_credit_card,0.02868739578667371
+avg_monthly_transactions,0.008066721595290365
